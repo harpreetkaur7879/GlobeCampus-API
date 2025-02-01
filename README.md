@@ -6,6 +6,9 @@ A sleek web application that fetches college data by country using APIs, built w
 ✅ Real-time API Fetching – Uses AJAX & Axios for seamless data retrieval.
 ✅ Fast & Lightweight – Optimized for speed and performance.
 
+🖼️ UI Preview
+GlobeCampus.png
+
 🛠️ Tech Stack
 Technology	Purpose
 🏗 HTML5	Structure of the app
